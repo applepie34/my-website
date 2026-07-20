@@ -1,6 +1,6 @@
 # My own site! 🚀
 
-Hey! This is my personal portfolio website that I built for the Stardance challenge. I wanted to make a clean space to share my coding journey, show off the projects I've built so far, and let people know how to get in touch with me.
+This is my personal portfolio website that I built for the Stardance challenge. I wanted to make a clean space to share my coding journey, show off the projects I've built so far, and let people know how to get in touch with me.
 
 ## What's on the site?
 * **About Me & My Journey:** How I got started back in 6th standard downloading GTA and Minecraft mods, and how I eventually got into learning HTML and Python.
