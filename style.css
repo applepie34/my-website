@@ -1,5 +1,5 @@
 body{
-    background-color: #bbeef1;
+    background-color: #A9B7C6;
 }
 h1{
     font-family: 'Bevan', cursive;
@@ -7,35 +7,35 @@ h1{
 }
 h2{
     font-family: 'Bevan', cursive;
-    color: #1c71aa;
+    color: #2D3A47;
     text-decoration: underline;
 
 }
 h3{
     font-family: 'Bevan', cursive;
-    color: #55ade7;
+    color: #2D3A47;
     text-decoration: underline;
 }
 p{
     font-family: 'Lobster Two', cursive;
     font-size: 25px;
-    color: #1c71aa;
+    color: #2D3A47;
 }
 ul{
     border-style: solid;
     border-color: #000000;
     border-width: 4px;
     border-radius: 10px;
-    background-color: #ffcd71;
+    background-color: #fdda98;
     padding: 30px;
     font-family: 'Lobster Two', cursive;
     font-size: 25px;
-    color: #1c71aa;
+    color: #2D3A47;
 }
 
 .Intro{
     text-align: center;
-    background-color: #d8ff7e;
+    background-color: #A8B58A;
     border-style: solid;
     border-color: #000000;
     border-width: 4px;
@@ -44,9 +44,10 @@ ul{
 
 .ContactME{
     text-align: center;
-    background-color: #d8ff7e;
+    background-color: #A8B58A;
     border-style: solid;
     border-color: #000000;
     border-width: 4px;
     border-radius: 10px;
 }
+
