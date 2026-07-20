@@ -1,7 +1,52 @@
 body{
-    background-color: #dff8fa;
+    background-color: #bbeef1;
 }
 h1{
     font-family: 'Bevan', cursive;
     color: #0f4c75;
+}
+h2{
+    font-family: 'Bevan', cursive;
+    color: #1c71aa;
+    text-decoration: underline;
+
+}
+h3{
+    font-family: 'Bevan', cursive;
+    color: #55ade7;
+    text-decoration: underline;
+}
+p{
+    font-family: 'Lobster Two', cursive;
+    font-size: 25px;
+    color: #1c71aa;
+}
+ul{
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    border-radius: 10px;
+    background-color: #ffcd71;
+    padding: 30px;
+    font-family: 'Lobster Two', cursive;
+    font-size: 25px;
+    color: #1c71aa;
+}
+
+.Intro{
+    text-align: center;
+    background-color: #d8ff7e;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    border-radius: 10px;
+}
+
+.ContactME{
+    text-align: center;
+    background-color: #d8ff7e;
+    border-style: solid;
+    border-color: #000000;
+    border-width: 4px;
+    border-radius: 10px;
 }
