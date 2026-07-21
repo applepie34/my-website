@@ -1,4 +1,4 @@
-# My own site! 🚀
+# My own site! 
 
 This is my personal portfolio website. I wanted to make a space to share my coding stuff, projects I've built so far, and my contact details.
 
