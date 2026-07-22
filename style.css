@@ -1,5 +1,6 @@
 body{
     background-color: #A9B7C6;
+    margin: 0px;
 }
 h1{
     font-family: 'Bevan', cursive;
@@ -21,7 +22,44 @@ p{
     font-size: 25px;
     color: #2D3A47;
 }
-ul{
+main{
+    margin: 20px;
+}
+#nav-list{ 
+    
+    font-family: 'Lobster Two', cursive;
+    list-style-type: none;
+    background-color: #878886;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    
+}
+.navbar a{
+    color: #2D3A47;
+    text-decoration: none;
+    padding: 15px;
+    text-align: center;
+
+    
+
+}
+.navbar li{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    
+
+    
+}
+
+.navbar a:hover{
+    background-color: #A8B58A;
+    border-style: solid;
+    border-color: #000000;
+}
+#project-list{
     border-style: solid;
     border-color: #000000;
     border-width: 4px;
